@@ -6,5 +6,5 @@ process but also enhances accessibility, particularly for individuals with disab
 who may find traditional voting methods cumbersome. 
 
 Commands to run the code:
-To add face : python.addfaces
-To give vote :python.givevotes
+To add face : python add_faces.py
+To give vote :python give_vote.py
